@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614344651680",
+    "project_id": "world-cup-qualifiers-simulator",
+    "storage_bucket": "world-cup-qualifiers-simulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614344651680:android:8758ee448156590c85eac5",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614344651680-2u064dg9i7j56b1ghamg9i1ug51nar67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWobsWmARypdL-qgD2SbzxHGyucVYQlHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614344651680-2u064dg9i7j56b1ghamg9i1ug51nar67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
